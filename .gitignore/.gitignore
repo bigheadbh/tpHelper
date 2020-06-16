@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignored files
+/out/
+/artifacts/
+/.idea/
